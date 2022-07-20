@@ -1,0 +1,16 @@
+com\simple\rpc\config\ProxyConfig.class
+com\simple\rpc\main\Execute.class
+com\simple\rpc\register\ClientServerHandler.class
+com\simple\rpc\main\RPCMain.class
+com\simple\rpc\annotations\Reference.class
+com\simple\rpc\factory\AbstractInterfaceFactory$DefaultInterfaceFactory.class
+com\simple\rpc\annotations\RegisterService.class
+com\simple\rpc\factory\AbstractInterfaceFactory.class
+com\simple\rpc\factory\ServerInterfaceFactory.class
+com\simple\rpc\factory\AbstractInterfaceFactory$InterfaceHandler.class
+com\simple\rpc\annotations\StratRPC.class
+com\simple\rpc\register\ClientServer.class
+com\simple\rpc\factory\AbstractInterfaceFactory$1.class
+com\simple\rpc\register\ClientServer$1.class
+com\simple\rpc\socket\SocketRequest.class
+com\simple\rpc\annotations\EnableRPC.class
